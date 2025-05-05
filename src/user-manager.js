@@ -1,8 +1,8 @@
-const users = [
-  { id: 1, name: 'Оля', age: 28, isActive: true },
-  { id: 2, name: 'Андрій', age: 35, isActive: false },
-  { id: 3, name: 'Марія', age: 22, isActive: true },
-];
+// const users = [
+//   { id: 1, name: 'Оля', age: 28, isActive: true },
+//   { id: 2, name: 'Андрій', age: 35, isActive: false },
+//   { id: 3, name: 'Марія', age: 22, isActive: true },
+// ];
 
 // const getActiveUsers = arr => arr.filter(user => user.isActive === true);
 //arr.filter(user => user.isActive) - short version
